@@ -252,6 +252,7 @@ Thanks to the open-source community for terminal manipulation techniques
 <img src="assets/exampleMaze1.png" alt="Example Maze 1" width="400"/>
 <img src="assets/exampleMaze2.png" alt="Example Maze 2" width="400"/>
 <img src="assets/exampleMaze3.png" alt="Example Maze 3" width="400"/>
+<img src="assets/exampleMaze4.png" alt="Example Maze 4" width="400"/>
 
 </div>
 
